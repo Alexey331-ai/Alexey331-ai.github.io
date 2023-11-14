@@ -10,12 +10,12 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "Dmitry Kolosov"
+name = "Alexey Martynov"
 
 [params]
-author = "Dmitry Kolosov"
+author = "Alexey Martynov"
 description = "Anubis is a simple minimalist theme for Hugo blog engine."
-dateFormat = "2006-01-02"
+dateFormat = "2023-11-14"
 paginationSinglePost = true
 style = "auto"
 readMore = false
@@ -74,3 +74,4 @@ tag = "tags"
 
 [markup.goldmark.renderer]
 unsafe = true
+
