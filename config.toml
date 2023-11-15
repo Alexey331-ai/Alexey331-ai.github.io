@@ -15,7 +15,7 @@ name = "Alexey Martynov"
 [params]
 author = "Alexey Martynov"
 description = "Anubis is a simple minimalist theme for Hugo blog engine."
-dateFormat = "2023-11-14"
+dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "auto"
 readMore = false
